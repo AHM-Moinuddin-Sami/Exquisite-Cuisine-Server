@@ -1,6 +1,7 @@
 const express = require('express')
-const app = express()
-const port = 3000
+const app = express();
+// const cors = require('cors');
+const port = process.env.PORT || 5000;
 
 const chefs = require('./data/chefs.json');
 
@@ -13,5 +14,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Exquisite Cuisine server listening on port ${port}`)
 })
-
-export default app;
