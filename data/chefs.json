@@ -1,12 +1,12 @@
 [
     {
         "id": "japanese_chef_001",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
-        "chef_name": "Yuki Nakamura",
+        "chef_picture": "https://images.unsplash.com/photo-1573637798035-53c4aa94d094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Tadano Hitohito",
         "years_of_experience": 10,
         "number_of_recipes": 75,
         "likes": 4000,
-        "bio": "Yuki Nakamura is a Japanese chef who specializes in traditional Japanese cuisine. She was born and raised in Tokyo and learned how to cook from her grandmother. Yuki is known for her attention to detail and the high quality of her ingredients. She has worked in top restaurants in Japan and has won several awards for her culinary creations. In her free time, Yuki enjoys practicing calligraphy and studying tea ceremony.",
+        "bio": "Tadano Hitohito is a Japanese chef who specializes in traditional Japanese cuisine. He was born and raised in Tokyo and learned how to cook from her grandmother. Yuki is known for her attention to detail and the high quality of her ingredients. He has worked in top restaurants in Japan and has won several awards for her culinary creations. In her free time, Yuki enjoys practicing calligraphy and studying tea ceremony.",
         "recipes": [
             {
                 "id": "tempura_001",
@@ -60,7 +60,7 @@
     },
     {
         "id": "japanese_chef_002",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1627901594749-3976f7677cb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=717&q=80",
         "chef_name": "Kenji Tanaka",
         "years_of_experience": 15,
         "number_of_recipes": 100,
@@ -121,12 +121,12 @@
     },
     {
         "id": "japanese_chef_003",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
-        "chef_name": "Yuka Nakamura",
+        "chef_picture": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1098&q=80",
+        "chef_name": "Hiiragi Isshin",
         "years_of_experience": 10,
         "number_of_recipes": 80,
         "likes": 5000,
-        "bio": "Yuka Nakamura is a Japanese chef who specializes in traditional Japanese cuisine. She trained in Kyoto and has worked in top restaurants in Tokyo and Osaka. Yuka is known for her delicate and precise cooking techniques and her attention to detail. She is a master of kaiseki, a multi-course Japanese meal that features seasonal and local ingredients. Yuka has won several awards for her culinary skills and is highly respected in the Japanese culinary community.",
+        "bio": "Hiiragi Isshin is a Japanese chef who specializes in traditional Japanese cuisine. He trained in Kyoto and has worked in top restaurants in Tokyo and Osaka. Yuka is known for her delicate and precise cooking techniques and her attention to detail. He is a master of kaiseki, a multi-course Japanese meal that features seasonal and local ingredients. Yuka has won several awards for her culinary skills and is highly respected in the Japanese culinary community.",
         "recipes": [
             {
                 "id": "tempura_001",
@@ -176,7 +176,7 @@
     },
     {
         "id": "japanese_chef_004",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1580827929620-e1a34bc162fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
         "chef_name": "Takashi Ono",
         "years_of_experience": 12,
         "number_of_recipes": 75,
@@ -232,12 +232,12 @@
     },
     {
         "id": "japanese_chef_005",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
-        "chef_name": "Miyako Nakamura",
+        "chef_picture": "https://images.unsplash.com/photo-1606921853348-de18ac731b17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Toriko Nakamura",
         "years_of_experience": 8,
         "number_of_recipes": 60,
         "likes": 2500,
-        "bio": "Miyako Nakamura is a Japanese chef who specializes in traditional Kaiseki cuisine. She has trained in some of the top Kaiseki restaurants in Kyoto and Tokyo, and has a deep understanding of the delicate balance of flavors and textures in Kaiseki dishes. Miyako is also an expert in the use of seasonal ingredients, and incorporates the freshest ingredients into her dishes. She is highly respected in the Japanese culinary community for her dedication to preserving traditional Japanese cuisine.",
+        "bio": "Toriko Nakamura is a Japanese chef who specializes in traditional Kaiseki cuisine. He has trained in some of the top Kaiseki restaurants in Kyoto and Tokyo, and has a deep understanding of the delicate balance of flavors and textures in Kaiseki dishes. Toriko is also an expert in the use of seasonal ingredients, and incorporates the freshest ingredients into her dishes. He is highly respected in the Japanese culinary community for her dedication to preserving traditional Japanese cuisine.",
         "recipes": [
             {
                 "id": "soba_noodles_001",
@@ -284,12 +284,12 @@
     },
     {
         "id": "japanese_chef_006",
-        "chef_picture": "https://example.com/chef_profile_picture.jpg",
-        "chef_name": "Yuko Yamamoto",
+        "chef_picture": "https://images.unsplash.com/photo-1567879866251-a8dcd972b7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+        "chef_name": "Hirata Yamamoto",
         "years_of_experience": 10,
         "number_of_recipes": 65,
         "likes": 3000,
-        "bio": "Yuko Yamamoto is a Japanese chef who specializes in Izakaya cuisine. She has worked in some of the top Izakaya restaurants in Tokyo and has developed a unique style of Izakaya cuisine that combines traditional Japanese flavors with a modern twist. Yuko is known for her creative  use of seasonal ingredients and her ability to create dishes that are both visually stunning and delicious. She is highly respected in the Japanese culinary community for her innovative approach to Izakaya cuisine.",
+        "bio": "Hirata Yamamoto is a Japanese chef who specializes in Izakaya cuisine. He has worked in some of the top Izakaya restaurants in Tokyo and has developed a unique style of Izakaya cuisine that combines traditional Japanese flavors with a modern twist. Hirata is known for her creative  use of seasonal ingredients and her ability to create dishes that are both visually stunning and delicious. He is highly respected in the Japanese culinary community for her innovative approach to Izakaya cuisine.",
         "recipes": [
             {
                 "id": "yakitori_001",
