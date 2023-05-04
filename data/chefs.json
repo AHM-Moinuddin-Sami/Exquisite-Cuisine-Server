@@ -361,5 +361,68 @@
                 "recipe_img": "https://images.unsplash.com/photo-1617421753170-46511a8d73fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
             }
         ]
+    },
+    {
+        "id": "japanese_chef_007",
+        "chef_picture": "https://images.unsplash.com/photo-1565724088606-95acf1e8ff14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Japane Sato",
+        "years_of_experience": 15,
+        "number_of_recipes": 80,
+        "likes": 5000,
+        "bio": "Japane Sato is a Japanese chef with over 15 years of experience in the culinary world. He started his career working at a traditional Japanese restaurant in Kyoto and has since worked at several Michelin-starred restaurants in Japan. Japane specializes in Japanese-French fusion cuisine and is known for his innovative use of ingredients and techniques. He has won several awards for his cooking and is considered one of the top chefs in Japan.",
+        "recipes": [
+            {
+                "id": "maguro_001",
+                "recipe_name": "Maguro Tartare",
+                "ingredients": [
+                    "tuna",
+                    "avocado",
+                    "wasabi",
+                    "soy sauce",
+                    "sesame oil",
+                    "radish sprouts"
+                ],
+                "cooking_method": "Cut the tuna into small pieces. Mash the avocado in a bowl and add wasabi, soy sauce, and sesame oil to taste. Mix the tuna and avocado together. Serve the tartare in a small dish and garnish with radish sprouts.",
+                "rating": 4.8,
+                "recipe_img": "https://images.unsplash.com/photo-1666599207724-920500fc26ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            },
+            {
+                "id": "omurice_001",
+                "recipe_name": "Omurice",
+                "ingredients": [
+                    "rice",
+                    "chicken",
+                    "onion",
+                    "ketchup",
+                    "eggs",
+                    "butter",
+                    "green onions"
+                ],
+                "cooking_method": "Cook the rice according to package instructions. In a pan, sauté the chicken and onions until cooked through. Add ketchup to the pan and stir to combine. Spread the rice on a plate and pour the chicken mixture on top. Beat the eggs in a bowl. In a separate pan, melt butter and pour in the beaten eggs. Cook until the eggs are set but still slightly runny. Slide the omelet onto the rice and chicken mixture. Garnish with sliced green onions.",
+                "rating": 4.6,
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Omurice_by_Taimeiken.jpg/1280px-Omurice_by_Taimeiken.jpg"
+            },
+            {
+                "id": "tempura_004",
+                "recipe_name": "Assorted Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "sweet potato",
+                    "asparagus",
+                    "lotus root",
+                    "flour",
+                    "cornstarch",
+                    "egg",
+                    "ice water",
+                    "soy sauce",
+                    "radish",
+                    "lemon"
+                ],
+                "cooking_method": "Peel and devein the shrimp. Cut the sweet potato, asparagus, and lotus root into bite-sized pieces. In a bowl, whisk together flour, cornstarch, egg, and ice water to make a batter. Dip the shrimp and vegetables into the batter and fry in hot oil until golden brown. Serve hot with soy sauce, grated radish, and lemon.",
+                "rating": 4.7,
+                "recipe_img": "https://images.unsplash.com/photo-1601059286024-61032e83b203?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+            }
+        ]
     }
+    
 ]
