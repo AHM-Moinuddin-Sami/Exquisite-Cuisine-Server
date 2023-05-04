@@ -5,7 +5,7 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const chefs = require('./data/chefs.json');
+const chefs = require('./store/chefs.json');
 
 app.get('/', (req, res) => {
   res.send('Server Exquisite Cuisine is running');
